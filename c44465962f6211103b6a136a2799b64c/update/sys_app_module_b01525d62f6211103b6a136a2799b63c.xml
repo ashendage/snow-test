@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test123">781525d62f6211103b6a136a2799b638</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test123s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_516039_dummy_test123</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_516039_dummy.test123_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 05:39:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b01525d62f6211103b6a136a2799b63c</sys_id>
+        <sys_name>Test123s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dummy" source="x_516039_dummy">c44465962f6211103b6a136a2799b64c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dummy">c44465962f6211103b6a136a2799b64c</sys_scope>
+        <sys_update_name>sys_app_module_b01525d62f6211103b6a136a2799b63c</sys_update_name>
+        <timeline_page/>
+        <title>Test123s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

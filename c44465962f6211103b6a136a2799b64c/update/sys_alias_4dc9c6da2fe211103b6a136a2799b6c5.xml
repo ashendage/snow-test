@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_516039_dummy.Test_Github</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Test Github</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>akash.kumar</sys_created_by>
+        <sys_created_on>2022-10-17 08:19:44</sys_created_on>
+        <sys_id>4dc9c6da2fe211103b6a136a2799b6c5</sys_id>
+        <sys_name>x_516039_dummy.Test_Github</sys_name>
+        <sys_package display_value="Dummy" source="x_516039_dummy">c44465962f6211103b6a136a2799b64c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dummy">c44465962f6211103b6a136a2799b64c</sys_scope>
+        <sys_update_name>sys_alias_4dc9c6da2fe211103b6a136a2799b6c5</sys_update_name>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
